@@ -33,15 +33,15 @@ Los resultados se mostrarán en la consola del navegador o en el DOM según la i
 
 Posibles Problemas y Soluciones
 
-1. No se muestra la lista de participantes
+1. No se muestra la lista de participantes:
 Asegúrate de que el elemento con id="listaAmigos" existe en el index.html.
 Revisa la consola del navegador (F12 -> Consola) para verificar errores.
 
-2. No se asignan amigos secretos correctamente
+2. No se asignan amigos secretos correctamente:
 Verifica que haya al menos dos participantes antes de asignar.
 Asegúrate de que la función sortearAmigo() está correctamente vinculada al botón.
 
-3. No funciona el sorteo aleatorio
+3. No funciona el sorteo aleatorio:
 Asegúrate de que haya al menos un participante en la lista antes de realizar el sorteo.
 
 Autor
